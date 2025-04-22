@@ -53,6 +53,6 @@ In the Windows Security window, select More choices and then Use a different acc
 16. You may receive a certificate warning during the sign-in process. Click Yes or Continue to create the connection.
 ![Screenshot 2025-04-22 125839](https://github.com/user-attachments/assets/8c091524-e314-4e68-8a31-a1ba9e8eb99e)
 
-17.  # View the IIS welcome page #
- In the portal, select the VM and in the overview of the VM, hover over the IP address to show Copy to clipboard. Copy the IP address and paste it into a browser tab. The default IIS welcome page will open, and should look like this:
-
+17.  # View the welcome page #
+Access Your Windows VM
+You are now connected to your Azure Windows VM via Remote Desktop!You can now install software, configure settings, or run applications.
